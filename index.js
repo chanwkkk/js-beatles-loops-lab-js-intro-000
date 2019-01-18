@@ -12,7 +12,7 @@ function johnLennonFacts(array){
   while (i<array.length){
     array2.push(`${array[i]}!!!`);
     i++;
-  }return array2; 
+  }return array2;
 }
 
 function iLoveTheBeatles(num){
